@@ -1,0 +1,11 @@
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД Контрольная.csprojAssemblyReference.cache
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД_Контрольная.Form1.resources
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД_Контрольная.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД Контрольная.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД Контрольная.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\bin\Debug\БД Контрольная.exe.config
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\bin\Debug\БД Контрольная.exe
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\bin\Debug\БД Контрольная.pdb
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД Контрольная.exe
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД Контрольная.pdb
+C:\Users\Руслан\Desktop\Универ\БД\БД Контрольная\БД Контрольная\obj\Debug\БД_Контрольная.Form2.resources

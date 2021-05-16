@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "БД Контрольная", "БД Контрольная\БД Контрольная.csproj", "{2895DAE1-36FD-4F6F-AC70-A708C74692BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2895DAE1-36FD-4F6F-AC70-A708C74692BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2895DAE1-36FD-4F6F-AC70-A708C74692BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2895DAE1-36FD-4F6F-AC70-A708C74692BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2895DAE1-36FD-4F6F-AC70-A708C74692BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A87A00-140E-41CD-BCA6-273F719241B3}
+	EndGlobalSection
+EndGlobal
